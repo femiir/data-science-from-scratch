@@ -214,3 +214,4 @@ models/
 
 # TensorBoard log files
 logs/
+scratch/
